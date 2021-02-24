@@ -7,31 +7,31 @@
 
 ## 团队成员
 ###  在岗成员
-梁登    liangdeng@unipus.cn
-崔昕   cuixin@unipus.cn
-郑晨   zhengchen@unipus.cn
-郭磊   guolei@unipus.cn
-唐佳强   847678340@qq.com
-巩恩伯   6435414@qq.com
-刘婷     1552353296@qq.com
-郭万民    2068257540@qq.com
+梁登    liangdeng@unipus.cn  
+崔昕   cuixin@unipus.cn  
+郑晨   zhengchen@unipus.cn  
+郭磊   guolei@unipus.cn  
+唐佳强   847678340@qq.com  
+巩恩伯   6435414@qq.com  
+刘婷     1552353296@qq.com  
+郭万民    2068257540@qq.com  
 （4个空缺招聘中..）
 
 ###  过往成员
 以下同学曾在本团队实习，感谢他们的付出
-吴一鸣
-王博
-李哲
-刘瑞峰
-王森浩
-熊袖璋
-容珩桥
-郭柯宇
+吴一鸣  
+王博  
+李哲  
+刘瑞峰  
+王森浩  
+熊袖璋  
+容珩桥  
+郭柯宇  
 
 ### 人员招聘
-算法工程师(语音方向)招聘： https://www.lagou.com/jobs/8028971.html
-C++工程师(语音方向)招聘: https://www.lagou.com/jobs/8028985.html
-[常年需要]实习生招聘：https://www.lagou.com/jobs/5979292.html
+算法工程师(语音方向)招聘： https://www.lagou.com/jobs/8028971.html  
+C++工程师(语音方向)招聘: https://www.lagou.com/jobs/8028985.html  
+[常年需要]实习生招聘：https://www.lagou.com/jobs/5979292.html  
 
 ## 联系我们
-北京市海淀区北外国际大厦7层    梁登（17777867036）
+北京市海淀区北外国际大厦7层    梁登（17777867036）  
