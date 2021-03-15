@@ -12,21 +12,18 @@
 郑晨   zhengchen@unipus.cn  
 郭磊   guolei@unipus.cn  
 唐佳强   847678340@qq.com  
-聂帅   nieshuai@unipus.cn
+聂帅   nieshuai@unipus.cn  
 李强     1552353296@qq.com  
-郭万民    2068257540@qq.com  
+郭万民    2068257540@qq.com   
 （3个职缺招聘中..）
 
 ###  过往成员
 以下同学曾在本团队实习，感谢他们的付出  
-吴一鸣  
-王博  
-李哲  
-刘瑞峰  
-王森浩  
-熊袖璋  
-荣珩桥  
-郭柯宇  
+吴一鸣    王博    李哲  
+刘瑞峰    王森浩  熊袖璋  
+荣珩桥    郭柯宇  巩恩伯
+刘婷
+
 
 ### 人员招聘
 [算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  
