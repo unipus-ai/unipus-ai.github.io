@@ -12,10 +12,10 @@
 郑晨   zhengchen@unipus.cn  
 郭磊   guolei@unipus.cn  
 唐佳强   847678340@qq.com  
-巩恩伯   6435414@qq.com  
-刘婷     1552353296@qq.com  
+聂帅   nieshuai@unipus.cn
+李强     1552353296@qq.com  
 郭万民    2068257540@qq.com  
-（4个职缺招聘中..）
+（3个职缺招聘中..）
 
 ###  过往成员
 以下同学曾在本团队实习，感谢他们的付出  
