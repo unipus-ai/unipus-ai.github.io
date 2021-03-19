@@ -13,7 +13,7 @@
 郭磊   guolei@unipus.cn  
 唐佳强   847678340@qq.com  
 聂帅   nieshuai@unipus.cn  
-李强     1552353296@qq.com  
+李强     1906905998@qq.com  
 郭万民    2068257540@qq.com   
 （3个职缺招聘中..）
 
