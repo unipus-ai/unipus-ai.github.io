@@ -5,6 +5,9 @@
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
 
+# 媒体报道
+      [外研在线携手亚马逊云科技共话AI赋能教育发展](https://news.163.com/21/0401/11/G6GC3BQN00019OH3.html)
+
 # 团队成员
 ###  在岗成员
 梁登    liangdeng@unipus.cn  
@@ -13,8 +16,9 @@
 郭磊   guolei@unipus.cn  
 唐佳强   847678340@qq.com  
 聂帅   nieshuai@unipus.cn  
+刘晏伶   liuyanling@unipus.cn
 李强     1906905998@qq.com  
-（3个职缺招聘中..）
+（2个职缺招聘中..）
 
 ###  过往成员
 以下同学曾在本团队实习，感谢他们的付出  
@@ -25,9 +29,9 @@
 
 
 ### 人员招聘
-[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  
-[C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)  
-[实习生招聘](https://www.lagou.com/jobs/5979292.html)  
+[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [已关闭]
+[C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)   [进行中]
+[实习生招聘](https://www.lagou.com/jobs/5979292.html)     [进行中]
 
 # 联系我们
 北京市海淀区北外国际大厦7层    梁登（17777867036）  
