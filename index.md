@@ -6,7 +6,8 @@
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
 
 # 媒体报道
-      [外研在线携手亚马逊云科技共话AI赋能教育发展](https://news.163.com/21/0401/11/G6GC3BQN00019OH3.html)
+[外研在线携手亚马逊云科技共话AI赋能教育发展](https://news.163.com/21/0401/11/G6GC3BQN00019OH3.html)
+
 
 # 团队成员
 ###  在岗成员
@@ -29,9 +30,9 @@
 
 
 ### 人员招聘
-[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [已关闭]
-[C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)   [进行中]
-[实习生招聘](https://www.lagou.com/jobs/5979292.html)     [进行中]
+[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [已关闭]  
+[C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)   [进行中]   
+[实习生招聘](https://www.lagou.com/jobs/5979292.html)     [进行中]  
 
 # 联系我们
 北京市海淀区北外国际大厦7层    梁登（17777867036）  
