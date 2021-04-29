@@ -18,8 +18,9 @@
 唐佳强   847678340@qq.com  
 聂帅   nieshuai@unipus.cn  
 刘晏伶   liuyanling@unipus.cn  
+程皓     chenghao@unipus.cn  
 李强     1906905998@qq.com  
-（2个职缺招聘中..）
+（1个职缺招聘中..）
 
 ###  过往成员
 以下同学曾在本团队实习，感谢他们的付出  
