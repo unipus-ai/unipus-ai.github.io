@@ -9,7 +9,7 @@
 -   支持手写作文批改的“K12评分引擎”已经上线，应用于公司基础教育学段核心产品"[外研优学](http://ai.fltrp.com/tingshuo-service/)"。 
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
--   我们自主研发的语音测评引擎clio 1.0 已经上线投入使用；2.0版本正在紧锣密鼓研发中。
+-   我们自主研发的语音测评引擎clio 1.0 已经在U校园移动端上线投入使用；2.0版本正在紧锣密鼓研发中。
 
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://news.163.com/21/0401/11/G6GC3BQN00019OH3.html)
