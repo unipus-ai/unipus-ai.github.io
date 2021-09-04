@@ -1,7 +1,7 @@
 # 团队定位
   我们是外研社旗下的人工智能团队，以“为公司打造在线教育AI技术栈”为目标。目前，我们主攻“英文写作批改、语音测评、自适应学习”三个技术方向。[关于外研在线](https://book.yunzhan365.com/jivf/fpgo/mobile/index.html)
 # 过往成绩 
--   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线2年]，应用于iwrite(http://iwrite.unipus.cn/)、ITEST(https://itestcloud.unipus.cn/)、U校园、优诊学等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://reader.gmw.cn/2020-07/27/content_34032542.htm)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
+-   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线2年]，应用于[iwrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、U校园、优诊学等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://reader.gmw.cn/2020-07/27/content_34032542.htm)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
 -   支持手写作文批改的“K12评分引擎”已经上线，应用于公司基础教育学段核心产品“外研优学”(http://ai.fltrp.com/tingshuo-service/)。 
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
