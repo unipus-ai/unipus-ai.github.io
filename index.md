@@ -26,13 +26,13 @@
 郭磊   guolei@unipus.cn  
 唐佳强   tangjiaqiang@unipus.cn  
 聂帅   nieshuai@unipus.cn  
-程皓     chenghao@unipus.cn  
-杨俊杰   1059590834@qq.com
-孙阁阁   sungege325@163.com
-苏沺     13436713971@163.com
-骆俊松    1783964420@qq.com
-杨兴昊     
-（1个职缺招聘中..）
+程皓     chenghao@unipus.cn   
+杨俊杰   1059590834@qq.com   
+孙阁阁   sungege325@163.com  
+苏沺     13436713971@163.com  
+骆俊松    1783964420@qq.com  
+杨兴昊        
+（1个职缺招聘中..）   
 
 ###  过往成员
 感谢以下同事曾在本团队工作：
