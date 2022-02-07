@@ -9,7 +9,7 @@
 -   支持手写作文批改的“K12评分引擎”已经上线，应用于公司基础教育学段核心产品"[外研优学](http://ai.fltrp.com/tingshuo-service/)"。 
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
--   我们自主研发的语音测评引擎clio 1.0 已经在U校园移动端上线投入使用；2.0版本正在紧锣密鼓研发中。
+-   我们自主研发的语音测评引擎clio 2.0 已经在U校园移动端上线投入使用， 在行业内最专业的评测语料SpeechOcean762上，核心指标已达到头部竞品的水准；3.0正在紧锣密鼓研发中。
 
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://news.163.com/21/0401/11/G6GC3BQN00019OH3.html)
@@ -27,12 +27,11 @@
 唐佳强   tangjiaqiang@unipus.cn  
 聂帅   nieshuai@unipus.cn  
 程皓     chenghao@unipus.cn   
-杨俊杰   1059590834@qq.com   
 孙阁阁   sungege325@163.com  
 苏沺     13436713971@163.com  
 骆俊松    1783964420@qq.com  
-杨兴昊        
-（1个职缺招聘中..）   
+杨兴昊     
+韩付旺       
 
 ###  过往成员
 感谢以下同事曾在本团队工作：   
@@ -42,8 +41,8 @@
 吴一鸣    王博         
 李哲      刘瑞峰    王森浩  
 熊袖璋   荣珩桥    郭柯宇  
-巩恩伯   刘婷      李强    
-姜可欣   
+巩恩伯   刘婷      李强     
+姜可欣   段逸飞    杨俊杰    
 
 
 ### 人员招聘
