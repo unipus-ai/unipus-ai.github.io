@@ -27,11 +27,8 @@
 唐佳强   tangjiaqiang@unipus.cn  
 聂帅   nieshuai@unipus.cn  
 程皓     chenghao@unipus.cn   
-孙阁阁   sungege325@163.com  
-苏沺     13436713971@163.com  
-骆俊松    1783964420@qq.com  
+骆俊松    luojunsong@unipus.cn   
 杨兴昊     
-韩付旺       
 
 ###  过往成员
 感谢以下同事曾在本团队工作：   
@@ -43,7 +40,7 @@
 熊袖璋   荣珩桥    郭柯宇  
 巩恩伯   刘婷      李强     
 姜可欣   段逸飞    杨俊杰    
-
+韩付旺   苏沺     孙阁阁 
 
 ### 人员招聘
 [算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [进行中]  
