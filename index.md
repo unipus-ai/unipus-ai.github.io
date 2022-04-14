@@ -28,7 +28,7 @@
 聂帅   nieshuai@unipus.cn  
 程皓     chenghao@unipus.cn   
 骆俊松    luojunsong@unipus.cn   
-杨兴昊     
+陈泰劼   chentaijie98@gmail.com     
 
 ###  过往成员
 感谢以下同事曾在本团队工作：   
