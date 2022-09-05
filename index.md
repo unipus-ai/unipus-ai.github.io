@@ -20,15 +20,15 @@
 -   欢迎更多优秀、有奋斗精神的AI技术人才加入，一起为教育行业创造具有领先技术水平和行业影响力的AI引擎！  
          
 ###  在岗成员
-梁登    liangdeng@unipus.cn  
-崔昕   cuixin@unipus.cn  
-郭磊   guolei@unipus.cn  
-唐佳强   tangjiaqiang@unipus.cn  
-聂帅   nieshuai@unipus.cn  
-骆俊松    luojunsong@unipus.cn 
-王岩全    wangyanquan@unipus.cn   
-郝雪媛    haoxueyuan@unipus.cn   
-袁履绥   yuanlvsui@unipus.cn   
+梁登    liangdeng@unipus.cn   
+崔昕   cuixin@unipus.cn   
+郭磊   guolei@unipus.cn   
+唐佳强   tangjiaqiang@unipus.cn   
+聂帅   nieshuai@unipus.cn   
+骆俊松    luojunsong@unipus.cn    
+王岩全    wangyanquan@unipus.cn     
+郝雪媛    haoxueyuan@unipus.cn    
+袁履绥   yuanlvsui@unipus.cn    
 
 
 ###  过往成员
