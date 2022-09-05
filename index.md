@@ -26,9 +26,9 @@
 唐佳强   tangjiaqiang@unipus.cn  
 聂帅   nieshuai@unipus.cn  
 骆俊松    luojunsong@unipus.cn 
-王岩全    wangyanquan@unipus.cn
-郝雪媛    haoxueyuan@unipus.cn
-袁履绥   yuanlvsui@unipus.cn
+王岩全    wangyanquan@unipus.cn   
+郝雪媛    haoxueyuan@unipus.cn   
+袁履绥   yuanlvsui@unipus.cn   
 
 
 ###  过往成员
