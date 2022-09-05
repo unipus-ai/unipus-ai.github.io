@@ -5,11 +5,11 @@
    为教育和数字出版行业输出领先和创新性的AI技术解决方案
        
 # 过往成绩 
--   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线2年]，应用于[iWrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、[U校园](https://u.unipus.cn/index.html/)、[优诊学](https://unilearn.fltrp.com/)等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://www.sohu.com/a/409383457_507486)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
+-   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线2.5年]，应用于[iWrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、[U校园](https://u.unipus.cn/index.html/)、[优诊学](https://unilearn.fltrp.com/)等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://www.sohu.com/a/409383457_507486)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
 -   支持手写作文批改的“K12评分引擎”已经上线，应用于公司基础教育学段核心产品"[外研优学](http://ai.fltrp.com/tingshuo-service/)"。 
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
--   我们自主研发的语音测评引擎clio 2.0 已经在U校园上线投入使用， 在行业内最专业的评测语料SpeechOcean762上，核心指标已达到头部竞品的水准；3.0正在紧锣密鼓研发中。
+-   我们自主研发的语音测评引擎clio 2.0 （含单词、句子、段落、有限分支等） 已经在U校园上线投入使用， 在行业内最专业的评测语料SpeechOcean762上，核心指标已达到头部竞品的水准；3.0正在紧锣密鼓研发中。
 
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://www.sohu.com/a/458688918_100292708)  
