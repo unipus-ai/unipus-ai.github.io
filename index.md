@@ -14,7 +14,7 @@
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://www.sohu.com/a/458688918_100292708)  
 [外研在线荣获“中文语法错误自动诊断大赛CGED2020”冠军](https://www.fltrp.com/c/2020-12-07/499693.shtml)  
-[iWrite引擎驱动的在线教学资源编校审核系统]获评国家新闻出版署2022年出版业科技与标准创新示范项目(https://mp.weixin.qq.com/s/apyrKAzE3040nzcoQzafag)
+[iWrite引擎驱动的编校审核系统获评国家新闻出版署2022年出版业科技与标准创新示范项目](https://mp.weixin.qq.com/s/apyrKAzE3040nzcoQzafag)
 
 # 团队成员  
 -   我们是一支头部互联网背景（团队成员来自百度凤巢、猎豹、字节跳动等）、热爱技术的职业化团队。
