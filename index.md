@@ -18,7 +18,7 @@
 
 # 团队成员  
 -   我们是一支头部互联网背景（团队成员来自百度凤巢、 猎豹、 字节跳动等）、 热爱技术的职业化团队。
--   欢迎更多优秀、 有奋斗精神的AI技术人才加入，一起为教育行业创造具有领先技术水平和行业影响力的AI引擎！  
+-   欢迎更多优秀、有奋斗精神的AI技术人才加入，一起为教育行业创造具有领先技术水平和行业影响力的AI引擎！  
          
 ###  在岗成员
 梁登    liangdeng@unipus.cn   
@@ -29,7 +29,7 @@
 骆俊松    luojunsong@unipus.cn     
 王岩全    wangyanquan@unipus.cn      
 郝雪媛    haoxueyuan@unipus.cn     
-袁履绥   yuanlvsui@unipus.cn      
+张睿谦   zhangruiqian@unipus.cn      
 
 
 ###  过往成员
