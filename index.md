@@ -53,7 +53,7 @@
 ### 人员招聘
 [算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [已关闭]     
 [C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)   [已关闭]   
-[实习生招聘]([https://www.nowcoder.com/jobs/detail/62012?jobId=62012&channel=npJobTab](https://www.nowcoder.com/jobs/detail/62012?jobId=62012&channel=npJobTab))     [进行中]  
+[实习生招聘](https://www.nowcoder.com/jobs/detail/62012?jobId=62012&channel=npJobTab)     [进行中]  
 
 # 联系我们
 中关村互联网教育创新中心20层外研在线    梁登（18518080659）  
