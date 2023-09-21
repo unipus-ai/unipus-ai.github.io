@@ -32,13 +32,14 @@
 聂帅   nieshuai@unipus.cn    
 骆俊松    luojunsong@unipus.cn     
 王岩全    wangyanquan@unipus.cn      
-郝雪媛    haoxueyuan@unipus.cn     
-张睿谦   zhangruiqian@unipus.cn      
+黄伟    huangwei@unipus.cn     
+张睿谦   zhangruiqian@unipus.cn    
+全慧媛
 
 
 ###  过往成员
 感谢以下同事曾在本团队工作：   
-刘晏伶  郑晨   程皓
+刘晏伶  郑晨   程皓   郝雪媛
  
 感谢以下同学曾在本团队实习：    
 吴一鸣    王博         
@@ -46,14 +47,14 @@
 熊袖璋   荣珩桥    郭柯宇  
 巩恩伯   刘婷      李强     
 姜可欣   段逸飞    杨俊杰    
-韩付旺   苏沺     孙阁阁 
-陈泰劼   
+韩付旺   苏沺     孙阁阁  
+李泰民     陈泰劼   姚海键     
 
 ### 人员招聘
-[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [进行中]  
+[算法工程师(语音方向)招聘](https://www.lagou.com/jobs/8028971.html)  [已关闭]     
 [C++工程师(语音方向)招聘](https://www.lagou.com/jobs/8028985.html)   [已关闭]   
-[实习生招聘](https://www.lagou.com/jobs/5979292.html)     [进行中]  
+[实习生招聘]([https://www.nowcoder.com/jobs/detail/62012?jobId=62012&channel=npJobTab](https://www.nowcoder.com/jobs/detail/62012?jobId=62012&channel=npJobTab))     [进行中]  
 
 # 联系我们
-北京市海淀区北外国际大厦7层    梁登（18518080659）  
+中关村互联网教育创新中心20层外研在线    梁登（18518080659）  
 
