@@ -1,19 +1,22 @@
 
-
-
-
 # UNIPUS-人工智能团队
-   我们是外研社旗下的人工智能团队，以“为公司打造在线教育AI技术栈”为目标。目前，我们主攻“写作智能批改、自动语音测评、机器翻译”三个技术方向，同时积极布局AI赋能在线教育、数字出版行业的AIGC场景。[关于外研在线](https://book.yunzhan365.com/jivf/fpgo/mobile/index.html)
+   我们是外研社旗下的人工智能团队，以“为公司打造在线教育AI技术栈”为目标。目前，我们主攻“写作智能批改、自动语音测评、机器翻译、口语智能对话”四个技术方向，同时积极布局AI赋能在线教育、数字出版行业的AIGC场景。[关于外研在线](https://book.yunzhan365.com/jivf/fpgo/mobile/index.html)
 
 # 团队愿景
-   为教育和数字出版行业输出领先和创新性的 AI技术解决方案
+   为教育和数字出版行业输出创新性的AI算法及技术解决方案
        
 # 过往成绩 
--   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线2.5年]，应用于[iWrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、[U校园](https://u.unipus.cn/index.html/)、[优诊学](https://unilearn.fltrp.com/)等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://www.sohu.com/a/409383457_507486)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
+-   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线3.5年]，应用于[iWrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、[U校园](https://u.unipus.cn/index.html/)、[优诊学](https://unilearn.fltrp.com/)等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://www.sohu.com/a/409383457_507486)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
 -   支持手写作文批改的“K12评分引擎”已经上线，应用于公司基础教育学段核心产品"[外研优学](http://ai.fltrp.com/tingshuo-service/)"。 
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
 -   我们自主研发的语音测评引擎clio 已经为公司的核心产品（如U校园、新标准小程序等）提供每年10亿+次的语音评测服务； 在行业内最专业的评测语料SpeechOcean762上，核心指标已达到头部竞品的水准。
+-   专利   
+    [一种单词发音打分方法、装置、电子设备及存储介质](https://www.qcc.com/zhuanliDetail/8142b88d3c1d743f9d1cf945a0165039.html)   
+    [一种近义词推荐方法、装置、电子设备及存储介质](https://www.qcc.com/zhuanliDetail/9e1285c892b0b3a32faa557b00dba2fc.html)   
+-   文章发表     
+  [基于 Amazon SageMaker 优化 Alpaca-lora 模型](https://aws.amazon.com/cn/blogs/china/optimizing-the-alpaca-lora-model-based-on-amazon-sagemaker/)   
+  [基于 Amazon SageMaker 优化 Stanford Alpaca 模型](https://aws.amazon.com/cn/blogs/china/optimizing-the-stanford-alpaca-model-based-on-amazon-sagemaker/)   
 
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://www.sohu.com/a/458688918_100292708)  
@@ -33,7 +36,7 @@
 王岩全    wangyanquan@unipus.cn      
 黄伟    huangwei@unipus.cn     
 张睿谦   zhangruiqian@unipus.cn    
-全慧媛
+全慧媛    1563244918@qq.com  
 
 
 ###  过往成员
