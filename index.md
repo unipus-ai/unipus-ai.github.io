@@ -16,7 +16,7 @@
     [一种近义词推荐方法、装置、电子设备及存储介质](https://www.qcc.com/zhuanliDetail/9e1285c892b0b3a32faa557b00dba2fc.html)   
 -   文章发表     
   [基于 Amazon SageMaker 优化 Alpaca-lora 模型](https://aws.amazon.com/cn/blogs/china/optimizing-the-alpaca-lora-model-based-on-amazon-sagemaker/)   
-  [基于 Amazon SageMaker 优化 Stanford Alpaca 模型](https://aws.amazon.com/cn/blogs/china/optimizing-the-stanford-alpaca-model-based-on-amazon-sagemaker/)   
+  [基于 Amazon SageMaker 优化 Stanford Alpaca 模型](https://aws.amazon.com/cn/blogs/china/optimizing-the-stanford-alpaca-model-based-on-amazon-sagemaker/)      
 
 # 媒体报道
 [外研在线携手亚马逊云科技共话AI赋能教育发展](https://www.sohu.com/a/458688918_100292708)  
@@ -59,4 +59,5 @@
 
 # 联系我们
 中关村互联网教育创新中心20层外研在线    梁登（18518080659）  
+
 
