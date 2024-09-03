@@ -3,7 +3,7 @@
    我们是外研社旗下的人工智能团队，以“为公司打造在线教育AI技术栈”为目标。目前，我们主攻“写作智能批改、自动语音测评、机器翻译、口语智能对话”四个技术方向，同时积极布局AI赋能在线教育、数字出版行业的AIGC场景。[关于外研在线](https://book.yunzhan365.com/jivf/fpgo/mobile/index.html)
 
 # 团队愿景
-   为教育和数字出版行业输出创新性的AI算法及技术解决方案
+   为教育和数字出版行业输出创新性的AI解决方案
        
 # 过往成绩 
 -   我们开发的iWrite 3.0引擎（含语法纠错引擎/作文评分引擎）已经[上线3.5年]，应用于[iWrite](http://iwrite.unipus.cn/)、[ITEST](https://itestcloud.unipus.cn/)、[U校园](https://u.unipus.cn/index.html/)、[优诊学](https://unilearn.fltrp.com/)等产品的写作批改场景，市场反馈良好。[《中国大学生英语写作能力报告(2020)》](https://www.sohu.com/a/409383457_507486)测评显示，我们的引擎在纠错效果和评分的相关性方面都优于竞品（批改网）。  
