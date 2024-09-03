@@ -11,7 +11,7 @@
 -   我们在CGED 2020大赛中，在公认最难赛道Correction Top1上夺得的第一名（第二名是科大讯飞与哈工大联合实验室），并在AACL2020发表学术论文，论文被[ACL anthology](https://www.aclweb.org/anthology/2020.nlptea-1.8/) 收录。
 ![](https://unipus-ai.github.io/CGED_correction_top1.jpg)
 -   我们自主研发的语音测评引擎clio 已经为公司的核心产品（如U校园、新标准小程序等）提供每年10亿+次的语音评测服务； 在行业内最专业的评测语料SpeechOcean762上，核心指标已达到头部竞品的水准。
--   我们开发的AI口语对话引擎，已经应用于石榴口语APP等，并中标了高校智慧教室等项目。
+-   我们开发的AI口语对话引擎，已经应用于[石榴口语APP](https://aioral.unipus.cn/)等，并中标了高校智慧教室等项目。
 -   我们为[AI教师助手](https://aigc.unipus.cn/) 供了一系列AIGC底层能力。
 -   专利   
     [一种单词发音打分方法、装置、电子设备及存储介质](https://www.qcc.com/zhuanliDetail/8142b88d3c1d743f9d1cf945a0165039.html)   
